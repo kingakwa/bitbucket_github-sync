@@ -119,10 +119,15 @@ If scheduled triggers are not firing:
 
 ## Support and Contact
 Contributors:
-- King Akwa: Team Lead
-- Emmanuel: Secretary
+- Akwa N.: Team Lead
+- Emmanuel N: Secretary
 - Felix M.  : Memeber
 - Osenat A.: Memeber
 - Mark:   Memeber
 - Darrell: Memeber
 - Neil:  Memeber
+- Kelly-Bright
+- Jules N
+- Juven A.
+- Samuel
+- Junior N
